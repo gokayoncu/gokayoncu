@@ -1,4 +1,4 @@
-[![MasterHead](https://timesproweb-static-backend-prod.s3.ap-south-1.amazonaws.com/Web_Development_Banner_Image_0e476d1ab6.webp)
+![MasterHead](https://timesproweb-static-backend-prod.s3.ap-south-1.amazonaws.com/Web_Development_Banner_Image_0e476d1ab6.webp)
 
 <h1 align="center">Hi 👋, I'm Gökay Öncü</h1>
 <h3 align="center">A passionate jr frontend developer from Turkey</h3>
