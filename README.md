@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gökay Öncü</h1>
 <h3 align="center">A passionate Frontend developer from Turkey</h3>
 
-- 💬 Ask me about **CSS, JS , Reacts, Vue.js , Next.js**
+- 💬 Ask me about **CSS, JS , Reacts, Vue.js , Next.js , Node.js , Express.js**
 
 - 📫 How to reach me **gokayoncu35@gmail.com**
 
