@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gökay Öncü</h1>
-<h3 align="center">A passionate jr frontend developer from Turkey</h3>
+<h3 align="center">A passionate Frontend developer from Turkey</h3>
 
 - 💬 Ask me about **CSS, JS , Reacts, Vue.js , Next.js**
 
